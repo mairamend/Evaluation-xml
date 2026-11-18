@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Projet final - Mairame Thierno Ndiath, né(e) le 06/01/1999 -->
-<document cote="LIV-014" type="livre" disponible="true">
+<document cote="LIV-014" type="livre" disponible="true"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="catalogue.xsd">
     <titre>Le Jardin des Sables</titre>
     <auteur>Binta Seck</auteur>
     <auteur>Awa Sy</auteur>
